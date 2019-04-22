@@ -8,3 +8,5 @@ By applying K-means and observing sum of squared distance, I finally chose k=6.
 I used plotly to visualize result with 3 dimension. One of the benefit of plotly is dynamic version: it allows users to interacting with the plot by pan and rotation.
 
 By plot, groups are not very well segmented: data is spreading instead of gathering closely, and one of the groups has outliers lying far from the group cluster. However, there's still sign of segmentation. result will be improved if we have more data.
+
+newplot, newplot(2) and newplot(3) provide version of observing from different aspects.
